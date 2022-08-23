@@ -1,0 +1,20 @@
+#span{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 50px;
+    -webkit-text-fill-color: orangered;
+    -webkit-text-stroke-width: 2px;
+    
+}
+.container{
+    text-align: center;
+    margin-top: 200px;
+
+}
+body{
+    background: url(https://images.pexels.com/photos/3699921/pexels-photo-3699921.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    background-position: 0px;
+    background-repeat: no-repeat;
+    width: 100vw;
+}
